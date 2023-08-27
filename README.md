@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nicodemus Gurning
-- 👀 I’m interested in Full stack developer 
-- 🌱 I’m currently learning Frontend developer 
+- 👀 I’m interested in Full stack dev
+- 🌱 I’m currently learning Frontend dev
 - 📫 Email: nicodemusgurning@workmail.com
 
 <!---
